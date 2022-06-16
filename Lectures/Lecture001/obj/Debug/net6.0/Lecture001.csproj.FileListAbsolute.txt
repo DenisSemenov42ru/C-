@@ -1,0 +1,15 @@
+C:\Users\Denis\OneDrive\Рабочий стол\Знакомство с языками програмироваания\C#\Lectures\Lecture001\bin\Debug\net6.0\Lecture001.exe
+C:\Users\Denis\OneDrive\Рабочий стол\Знакомство с языками програмироваания\C#\Lectures\Lecture001\bin\Debug\net6.0\Lecture001.deps.json
+C:\Users\Denis\OneDrive\Рабочий стол\Знакомство с языками програмироваания\C#\Lectures\Lecture001\bin\Debug\net6.0\Lecture001.runtimeconfig.json
+C:\Users\Denis\OneDrive\Рабочий стол\Знакомство с языками програмироваания\C#\Lectures\Lecture001\bin\Debug\net6.0\Lecture001.dll
+C:\Users\Denis\OneDrive\Рабочий стол\Знакомство с языками програмироваания\C#\Lectures\Lecture001\bin\Debug\net6.0\Lecture001.pdb
+C:\Users\Denis\OneDrive\Рабочий стол\Знакомство с языками програмироваания\C#\Lectures\Lecture001\obj\Debug\net6.0\Lecture001.csproj.AssemblyReference.cache
+C:\Users\Denis\OneDrive\Рабочий стол\Знакомство с языками програмироваания\C#\Lectures\Lecture001\obj\Debug\net6.0\Lecture001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\OneDrive\Рабочий стол\Знакомство с языками програмироваания\C#\Lectures\Lecture001\obj\Debug\net6.0\Lecture001.AssemblyInfoInputs.cache
+C:\Users\Denis\OneDrive\Рабочий стол\Знакомство с языками програмироваания\C#\Lectures\Lecture001\obj\Debug\net6.0\Lecture001.AssemblyInfo.cs
+C:\Users\Denis\OneDrive\Рабочий стол\Знакомство с языками програмироваания\C#\Lectures\Lecture001\obj\Debug\net6.0\Lecture001.csproj.CoreCompileInputs.cache
+C:\Users\Denis\OneDrive\Рабочий стол\Знакомство с языками програмироваания\C#\Lectures\Lecture001\obj\Debug\net6.0\Lecture001.dll
+C:\Users\Denis\OneDrive\Рабочий стол\Знакомство с языками програмироваания\C#\Lectures\Lecture001\obj\Debug\net6.0\refint\Lecture001.dll
+C:\Users\Denis\OneDrive\Рабочий стол\Знакомство с языками програмироваания\C#\Lectures\Lecture001\obj\Debug\net6.0\Lecture001.pdb
+C:\Users\Denis\OneDrive\Рабочий стол\Знакомство с языками програмироваания\C#\Lectures\Lecture001\obj\Debug\net6.0\Lecture001.genruntimeconfig.cache
+C:\Users\Denis\OneDrive\Рабочий стол\Знакомство с языками програмироваания\C#\Lectures\Lecture001\obj\Debug\net6.0\ref\Lecture001.dll
