@@ -1,0 +1,15 @@
+C:\Users\Denis\OneDrive\Рабочий стол\Знакомство с языками програмироваания\C#\HomeWorke\bin\Debug\net6.0\HomeWorke.exe
+C:\Users\Denis\OneDrive\Рабочий стол\Знакомство с языками програмироваания\C#\HomeWorke\bin\Debug\net6.0\HomeWorke.deps.json
+C:\Users\Denis\OneDrive\Рабочий стол\Знакомство с языками програмироваания\C#\HomeWorke\bin\Debug\net6.0\HomeWorke.runtimeconfig.json
+C:\Users\Denis\OneDrive\Рабочий стол\Знакомство с языками програмироваания\C#\HomeWorke\bin\Debug\net6.0\HomeWorke.dll
+C:\Users\Denis\OneDrive\Рабочий стол\Знакомство с языками програмироваания\C#\HomeWorke\bin\Debug\net6.0\HomeWorke.pdb
+C:\Users\Denis\OneDrive\Рабочий стол\Знакомство с языками програмироваания\C#\HomeWorke\obj\Debug\net6.0\HomeWorke.csproj.AssemblyReference.cache
+C:\Users\Denis\OneDrive\Рабочий стол\Знакомство с языками програмироваания\C#\HomeWorke\obj\Debug\net6.0\HomeWorke.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\OneDrive\Рабочий стол\Знакомство с языками програмироваания\C#\HomeWorke\obj\Debug\net6.0\HomeWorke.AssemblyInfoInputs.cache
+C:\Users\Denis\OneDrive\Рабочий стол\Знакомство с языками програмироваания\C#\HomeWorke\obj\Debug\net6.0\HomeWorke.AssemblyInfo.cs
+C:\Users\Denis\OneDrive\Рабочий стол\Знакомство с языками програмироваания\C#\HomeWorke\obj\Debug\net6.0\HomeWorke.csproj.CoreCompileInputs.cache
+C:\Users\Denis\OneDrive\Рабочий стол\Знакомство с языками програмироваания\C#\HomeWorke\obj\Debug\net6.0\HomeWorke.dll
+C:\Users\Denis\OneDrive\Рабочий стол\Знакомство с языками програмироваания\C#\HomeWorke\obj\Debug\net6.0\refint\HomeWorke.dll
+C:\Users\Denis\OneDrive\Рабочий стол\Знакомство с языками програмироваания\C#\HomeWorke\obj\Debug\net6.0\HomeWorke.pdb
+C:\Users\Denis\OneDrive\Рабочий стол\Знакомство с языками програмироваания\C#\HomeWorke\obj\Debug\net6.0\HomeWorke.genruntimeconfig.cache
+C:\Users\Denis\OneDrive\Рабочий стол\Знакомство с языками програмироваания\C#\HomeWorke\obj\Debug\net6.0\ref\HomeWorke.dll
