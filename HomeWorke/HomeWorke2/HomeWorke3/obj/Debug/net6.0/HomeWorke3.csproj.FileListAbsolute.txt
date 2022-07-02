@@ -1,0 +1,15 @@
+C:\Users\Denis\OneDrive\Рабочий стол\Знакомство с языками програмироваания\C#\HomeWorke\HomeWorke2\HomeWorke3\obj\Debug\net6.0\HomeWorke3.csproj.AssemblyReference.cache
+C:\Users\Denis\OneDrive\Рабочий стол\Знакомство с языками програмироваания\C#\HomeWorke\HomeWorke2\HomeWorke3\obj\Debug\net6.0\HomeWorke3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\OneDrive\Рабочий стол\Знакомство с языками програмироваания\C#\HomeWorke\HomeWorke2\HomeWorke3\obj\Debug\net6.0\HomeWorke3.AssemblyInfoInputs.cache
+C:\Users\Denis\OneDrive\Рабочий стол\Знакомство с языками програмироваания\C#\HomeWorke\HomeWorke2\HomeWorke3\obj\Debug\net6.0\HomeWorke3.AssemblyInfo.cs
+C:\Users\Denis\OneDrive\Рабочий стол\Знакомство с языками програмироваания\C#\HomeWorke\HomeWorke2\HomeWorke3\obj\Debug\net6.0\HomeWorke3.csproj.CoreCompileInputs.cache
+C:\Users\Denis\OneDrive\Рабочий стол\Знакомство с языками програмироваания\C#\HomeWorke\HomeWorke2\HomeWorke3\bin\Debug\net6.0\HomeWorke3.exe
+C:\Users\Denis\OneDrive\Рабочий стол\Знакомство с языками програмироваания\C#\HomeWorke\HomeWorke2\HomeWorke3\bin\Debug\net6.0\HomeWorke3.deps.json
+C:\Users\Denis\OneDrive\Рабочий стол\Знакомство с языками програмироваания\C#\HomeWorke\HomeWorke2\HomeWorke3\bin\Debug\net6.0\HomeWorke3.runtimeconfig.json
+C:\Users\Denis\OneDrive\Рабочий стол\Знакомство с языками програмироваания\C#\HomeWorke\HomeWorke2\HomeWorke3\bin\Debug\net6.0\HomeWorke3.dll
+C:\Users\Denis\OneDrive\Рабочий стол\Знакомство с языками програмироваания\C#\HomeWorke\HomeWorke2\HomeWorke3\bin\Debug\net6.0\HomeWorke3.pdb
+C:\Users\Denis\OneDrive\Рабочий стол\Знакомство с языками програмироваания\C#\HomeWorke\HomeWorke2\HomeWorke3\obj\Debug\net6.0\HomeWorke3.dll
+C:\Users\Denis\OneDrive\Рабочий стол\Знакомство с языками програмироваания\C#\HomeWorke\HomeWorke2\HomeWorke3\obj\Debug\net6.0\refint\HomeWorke3.dll
+C:\Users\Denis\OneDrive\Рабочий стол\Знакомство с языками програмироваания\C#\HomeWorke\HomeWorke2\HomeWorke3\obj\Debug\net6.0\HomeWorke3.pdb
+C:\Users\Denis\OneDrive\Рабочий стол\Знакомство с языками програмироваания\C#\HomeWorke\HomeWorke2\HomeWorke3\obj\Debug\net6.0\HomeWorke3.genruntimeconfig.cache
+C:\Users\Denis\OneDrive\Рабочий стол\Знакомство с языками програмироваания\C#\HomeWorke\HomeWorke2\HomeWorke3\obj\Debug\net6.0\ref\HomeWorke3.dll
