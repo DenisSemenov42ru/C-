@@ -1,0 +1,15 @@
+C:\Users\Denis\OneDrive\Рабочий стол\Знакомство с языками програмироваания\C#\HomeWorke\HomeWorke9\bin\Debug\net6.0\HomeWorke9.exe
+C:\Users\Denis\OneDrive\Рабочий стол\Знакомство с языками програмироваания\C#\HomeWorke\HomeWorke9\bin\Debug\net6.0\HomeWorke9.deps.json
+C:\Users\Denis\OneDrive\Рабочий стол\Знакомство с языками програмироваания\C#\HomeWorke\HomeWorke9\bin\Debug\net6.0\HomeWorke9.runtimeconfig.json
+C:\Users\Denis\OneDrive\Рабочий стол\Знакомство с языками програмироваания\C#\HomeWorke\HomeWorke9\bin\Debug\net6.0\HomeWorke9.dll
+C:\Users\Denis\OneDrive\Рабочий стол\Знакомство с языками програмироваания\C#\HomeWorke\HomeWorke9\bin\Debug\net6.0\HomeWorke9.pdb
+C:\Users\Denis\OneDrive\Рабочий стол\Знакомство с языками програмироваания\C#\HomeWorke\HomeWorke9\obj\Debug\net6.0\HomeWorke9.csproj.AssemblyReference.cache
+C:\Users\Denis\OneDrive\Рабочий стол\Знакомство с языками програмироваания\C#\HomeWorke\HomeWorke9\obj\Debug\net6.0\HomeWorke9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\OneDrive\Рабочий стол\Знакомство с языками програмироваания\C#\HomeWorke\HomeWorke9\obj\Debug\net6.0\HomeWorke9.AssemblyInfoInputs.cache
+C:\Users\Denis\OneDrive\Рабочий стол\Знакомство с языками програмироваания\C#\HomeWorke\HomeWorke9\obj\Debug\net6.0\HomeWorke9.AssemblyInfo.cs
+C:\Users\Denis\OneDrive\Рабочий стол\Знакомство с языками програмироваания\C#\HomeWorke\HomeWorke9\obj\Debug\net6.0\HomeWorke9.csproj.CoreCompileInputs.cache
+C:\Users\Denis\OneDrive\Рабочий стол\Знакомство с языками програмироваания\C#\HomeWorke\HomeWorke9\obj\Debug\net6.0\HomeWorke9.dll
+C:\Users\Denis\OneDrive\Рабочий стол\Знакомство с языками програмироваания\C#\HomeWorke\HomeWorke9\obj\Debug\net6.0\refint\HomeWorke9.dll
+C:\Users\Denis\OneDrive\Рабочий стол\Знакомство с языками програмироваания\C#\HomeWorke\HomeWorke9\obj\Debug\net6.0\HomeWorke9.pdb
+C:\Users\Denis\OneDrive\Рабочий стол\Знакомство с языками програмироваания\C#\HomeWorke\HomeWorke9\obj\Debug\net6.0\HomeWorke9.genruntimeconfig.cache
+C:\Users\Denis\OneDrive\Рабочий стол\Знакомство с языками програмироваания\C#\HomeWorke\HomeWorke9\obj\Debug\net6.0\ref\HomeWorke9.dll
