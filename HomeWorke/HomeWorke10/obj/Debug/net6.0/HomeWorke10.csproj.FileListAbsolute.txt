@@ -1,0 +1,15 @@
+C:\Users\Denis\OneDrive\Рабочий стол\Знакомство с языками програмироваания\C#\HomeWorke\HomeWorke10\bin\Debug\net6.0\HomeWorke10.exe
+C:\Users\Denis\OneDrive\Рабочий стол\Знакомство с языками програмироваания\C#\HomeWorke\HomeWorke10\bin\Debug\net6.0\HomeWorke10.deps.json
+C:\Users\Denis\OneDrive\Рабочий стол\Знакомство с языками програмироваания\C#\HomeWorke\HomeWorke10\bin\Debug\net6.0\HomeWorke10.runtimeconfig.json
+C:\Users\Denis\OneDrive\Рабочий стол\Знакомство с языками програмироваания\C#\HomeWorke\HomeWorke10\bin\Debug\net6.0\HomeWorke10.dll
+C:\Users\Denis\OneDrive\Рабочий стол\Знакомство с языками програмироваания\C#\HomeWorke\HomeWorke10\bin\Debug\net6.0\HomeWorke10.pdb
+C:\Users\Denis\OneDrive\Рабочий стол\Знакомство с языками програмироваания\C#\HomeWorke\HomeWorke10\obj\Debug\net6.0\HomeWorke10.csproj.AssemblyReference.cache
+C:\Users\Denis\OneDrive\Рабочий стол\Знакомство с языками програмироваания\C#\HomeWorke\HomeWorke10\obj\Debug\net6.0\HomeWorke10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\OneDrive\Рабочий стол\Знакомство с языками програмироваания\C#\HomeWorke\HomeWorke10\obj\Debug\net6.0\HomeWorke10.AssemblyInfoInputs.cache
+C:\Users\Denis\OneDrive\Рабочий стол\Знакомство с языками програмироваания\C#\HomeWorke\HomeWorke10\obj\Debug\net6.0\HomeWorke10.AssemblyInfo.cs
+C:\Users\Denis\OneDrive\Рабочий стол\Знакомство с языками програмироваания\C#\HomeWorke\HomeWorke10\obj\Debug\net6.0\HomeWorke10.csproj.CoreCompileInputs.cache
+C:\Users\Denis\OneDrive\Рабочий стол\Знакомство с языками програмироваания\C#\HomeWorke\HomeWorke10\obj\Debug\net6.0\HomeWorke10.dll
+C:\Users\Denis\OneDrive\Рабочий стол\Знакомство с языками програмироваания\C#\HomeWorke\HomeWorke10\obj\Debug\net6.0\refint\HomeWorke10.dll
+C:\Users\Denis\OneDrive\Рабочий стол\Знакомство с языками програмироваания\C#\HomeWorke\HomeWorke10\obj\Debug\net6.0\HomeWorke10.pdb
+C:\Users\Denis\OneDrive\Рабочий стол\Знакомство с языками програмироваания\C#\HomeWorke\HomeWorke10\obj\Debug\net6.0\HomeWorke10.genruntimeconfig.cache
+C:\Users\Denis\OneDrive\Рабочий стол\Знакомство с языками програмироваания\C#\HomeWorke\HomeWorke10\obj\Debug\net6.0\ref\HomeWorke10.dll
